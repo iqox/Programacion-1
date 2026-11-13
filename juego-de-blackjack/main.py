@@ -1,3 +1,5 @@
+# Juego del blackjack con interfaz gráfica usando Tkinter
+
 import random
 import tkinter as tk
 

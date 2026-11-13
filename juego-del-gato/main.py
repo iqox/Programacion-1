@@ -1,5 +1,6 @@
-import numpy as np
+# Juego del gato
 
+import numpy as np
 
 def ImprimirTablero(tablero: np.ndarray) -> None:
     ren, _ = tablero.shape
